@@ -1,0 +1,4 @@
+bottle==0.12.25
+bottle-cors==0.1.5
+bottle-cors-plugin==0.1.9
+psycopg2==2.9.6

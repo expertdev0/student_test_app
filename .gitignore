@@ -1,0 +1,25 @@
+# compiled output
+frontend/dist/
+frontend/declarations/
+
+# dependencies
+frontend/node_modules/
+
+# misc
+frontend/.env*
+frontend/.pnp*
+frontend/.eslintcache
+frontend/coverage/
+frontend/npm-debug.log*
+frontend/testem.log
+frontend/yarn-error.log
+
+# ember-try
+frontend/.node_modules.ember-try/
+frontend/npm-shrinkwrap.json.ember-try
+frontend/package.json.ember-try
+frontend/package-lock.json.ember-try
+frontend/yarn.lock.ember-try
+
+# broccoli-debug
+frontend/DEBUG/
